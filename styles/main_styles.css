@@ -815,9 +815,9 @@ section
 .home_slider_content h1:nth-child(2)
 {
 	font-family: 'Beyond';
-	font-size: 100px;
-	color: #FFFFFF;
-	margin-top: -34px;
+    font-size: 84px;
+    color: #FFFFFF;
+    margin-top: -12px;
 }
 .home_slider_button
 {
@@ -847,10 +847,12 @@ section
 .home_slider_prev
 {
 	left: 50px;
+	display: none;
 }
 .home_slider_next
 {
 	right: 50px;
+	display: none;
 }
 .home_slider_prev:hover .nav_path,
 .home_slider_prev:hover .nav_arrow
@@ -873,6 +875,7 @@ section
 	right: 50px;
 	bottom: 45px;
 	z-index: 10;
+	display: none;
 }
 .home_slider_custom_dots
 {
