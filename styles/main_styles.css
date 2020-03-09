@@ -1300,6 +1300,7 @@ section
 	padding-top: 125px;
 	padding-bottom: 116px;
 	background: linear-gradient(to right, #fa9e1b, #8d4fff);
+	display: none;
 }
 .cta_background
 {
