@@ -577,3 +577,14 @@
 {
 	
 }
+
+/************
+15. Minimum height
+************/
+
+@media only screen and (max-height: 650px)
+{
+	.search	{
+		display: none;
+	}
+}
