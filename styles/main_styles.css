@@ -2110,6 +2110,7 @@ section
 .copyright
 {
 	background: #1f0733;
+	display: none;
 }
 .copyright_content
 {
